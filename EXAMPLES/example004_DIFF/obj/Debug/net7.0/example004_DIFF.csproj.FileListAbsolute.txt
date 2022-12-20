@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\bin\Debug\net7.0\example004_DIFF.exe
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\bin\Debug\net7.0\example004_DIFF.deps.json
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\bin\Debug\net7.0\example004_DIFF.runtimeconfig.json
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\bin\Debug\net7.0\example004_DIFF.dll
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\bin\Debug\net7.0\example004_DIFF.pdb
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.AssemblyInfo.cs
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.dll
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\refint\example004_DIFF.dll
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.pdb
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\example004_DIFF.genruntimeconfig.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example004_DIFF\obj\Debug\net7.0\ref\example004_DIFF.dll
