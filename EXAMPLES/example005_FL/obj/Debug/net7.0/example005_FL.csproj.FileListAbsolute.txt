@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.AssemblyInfo.cs
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\bin\Debug\net7.0\example005_FL.exe
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\bin\Debug\net7.0\example005_FL.deps.json
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\bin\Debug\net7.0\example005_FL.runtimeconfig.json
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\bin\Debug\net7.0\example005_FL.dll
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\bin\Debug\net7.0\example005_FL.pdb
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.dll
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\refint\example005_FL.dll
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.pdb
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\example005_FL.genruntimeconfig.cache
+C:\Users\Alex\Desktop\github\EXAMPLES\example005_FL\obj\Debug\net7.0\ref\example005_FL.dll
